@@ -8,7 +8,7 @@ export default function App() {
         <div>
           <img src={BlogIllustrationSrc} className="rounded-lg" alt="" />
         </div>
-        <span className="text-gray-950 bg-yellow font-extrabold inline-block  py-2 px-4 rounded-sm">
+        <span className="text-gray-950 bg-yellow font-extrabold inline-block py-2 px-4 rounded-sm">
           Learning
         </span>
         <p className="font-medium text-gray-950">Published 21 Dec 2023</p>
