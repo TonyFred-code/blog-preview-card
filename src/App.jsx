@@ -6,7 +6,11 @@ export default function App() {
     <div className="min-h-screen bg-yellow py-4 px-5 flex items-center justify-center">
       <div className="w-full max-w-80 bg-white border border-gray-950 p-5 rounded-3xl space-y-3 shadow-3xl">
         <div>
-          <img src={BlogIllustrationSrc} className="rounded-lg" alt="" />
+          <img
+            src={BlogIllustrationSrc}
+            className="rounded-lg"
+            alt="Blog Post Illustration"
+          />
         </div>
         <span className="text-gray-950 bg-yellow font-extrabold inline-block py-2 px-4 rounded-sm">
           Learning
