@@ -38,7 +38,7 @@ Solution Built:
 ### Links
 
 - Solution URL: [GitHub Source Code](https://github.com/TonyFred-code/blog-preview-card/)
-- Live Site URL: [Vercel Deployed Demo](https://)
+- Live Site URL: [Vercel Deployed Demo](https://blog-preview-card-drab-rho.vercel.app/)
 
 ## Built with
 
